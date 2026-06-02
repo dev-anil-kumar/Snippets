@@ -1,0 +1,21 @@
+Invariance is the property of remaining completely unchanged, even when subjected to transformations, shifts, or different operating conditions. It represents a core principle of robustness across various disciplines—meaning something holds true regardless of context or perspective. [1, 2, 3, 4]
+
+The concept of invariance applies across several fields, each defined by what is being preserved:
+
+Mathematics & Physics
+In mathematics and physics, invariance means a property, equation, or physical law stays identical after a transformation (such as rotation, scaling, or translation). [1, 2, 3]
+
+Example: In geometry, the internal angles of any triangle always add up to \(180^{\circ }\) (or \(\pi \) radians). This sum is invariant, regardless of how the triangle is stretched or rotated.
+
+Example: In physics, the speed of light remains an invariant quantity for all observers, regardless of their relative motion. [1, 2]
+
+Machine Learning & Computer Vision
+In AI, invariance means an algorithm's output stays the same even if the input data is altered, rotated, or shifted. [1]
+
+Example: A convolutional neural network (CNN) often demonstrates translation invariance in image recognition. If a picture of a cat is moved slightly to the left, the model will still recognize it as a cat. [1, 2]
+
+Software Engineering
+In object-oriented programming and type theory, invariance describes a scenario where a program strictly requires the exact same data type and prohibits the substitution of supertypes or subtypes.
+
+Psychology & Statistics
+In psychometrics and statistics, measurement invariance ensures that a test or survey measures the same construct consistently across different demographic groups, contexts, or time periods.
